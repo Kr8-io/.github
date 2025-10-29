@@ -5,7 +5,7 @@ contact_links:
     about: Check out our documentation and project repositories
   - name: 💬 Discussions
     url: https://github.com/orgs/Kr8-io/discussions
-    about: Ask questions and discuss ideas with the community
+    about: Ask questions and discuss ideas with the community (if enabled)
   - name: 🔒 Security Issue
     url: https://github.com/Kr8-io/.github/blob/main/SECURITY.md
     about: Report security vulnerabilities privately
